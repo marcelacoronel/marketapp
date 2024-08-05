@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.market.respository&apos; to &apos;com.market.repository&apos;&#x0D;&#x0A;- Original project: &apos;01_ms_clientes&apos;&#x0D;&#x0A;- Original element: &apos;01_ms_clientes/src/main/java/com.market.respository&apos;&#x0D;&#x0A;- Renamed element: &apos;01_ms_clientes/src/main/java/com.market.repository&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;com.market.respository&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.market.respository" name="com.market.repository" qualified="false" references="true" stamp="1722373711859" textual="false" version="1.0"/>
+</session>
